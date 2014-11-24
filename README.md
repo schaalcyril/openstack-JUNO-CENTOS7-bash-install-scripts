@@ -10,9 +10,7 @@ SYNOPSIS
 OPTIONS
      -t <Nodetype>
           controller | compute | network | storage
-
      -c <componanttype>
           keystone | glance | nova | nova-network | neutron | horizon | cinder
-     
      -h
           View this help message about the available command-line options.
