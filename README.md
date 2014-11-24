@@ -1,10 +1,6 @@
-openstack-JUNO-CENTOS7-bash-install-scripts
 A simple OpenStack installer that allows you to install JUNO OpenStack on a CENTOS7.
-It's a simple aggregate commande from the official documentation.
-
+It aggregates the commands from the official documentation.
 ===========================================
-
-
 NAME
      JUNOinstall.sh
 
